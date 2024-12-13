@@ -1,5 +1,88 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Sun Dec  1 07:12:44 2024
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b16decode(__[::-1]));exec((_)(b'9E5E3249F1BFBF3EDF8815C05C47631B872361D7970F3E5C7AD7AA110E0CE25C013660609A47A6683E61C2029E016F31DD6EC185A855B2CECAEAB8CAE31A03F136F6960B2FB6727DD42584A3CD268C32351888EED5E85AA290678323318728DF99E802C23162671022054E48C77ED4559E71893C8014D05B3EE8111A06CFE4D6C696DD314350491927B52281595648E60F7C242A9051823E35BFAD4DF15C87C547A812AB86CF4EB805E62EBFA7BAA9A2AB4D37CDF5C9F24B636EF4C17827917C0ECEA85DB078C201A2050868816574B694CAFAC3858B83F067D2B8DC78D63A343C7C3323417928EDAD6E8987A4741C6E8FA21C91777AE2F041B1BBC93E5F8040E630A033BE2A6E058DC66EB1F8286D07B06962E96690E3FE3AAC945241C14F475CBD1A31E4387A9467475E8F2177FFA91A2BEBC278F52494BC57C5FA76B88BECFA2802BA31DE1A6E668473A931CDBB02D756DEEC2CEF52E94DFD60CC345742CD22853A8AFE28A512EE845A26DBFF145EA3048F0167BE047B24A99BE91B2D4DE845929F3ADC52209CD3EC753E456E5F5F8F25AC97BE397F990EFD4ADBFAB027BBF976E7FD5B875A56E6ED4B6AEBED68A2B0B58A2ECD287BFA923DB75EA9893B7E96449357633B2F57F647F1251E7D371E8643BDECC6972753FEE8297C9797A82F9927E4CF3A5974EE15F1B83B34FB25C4657E958D4FB963A7366FE1BAA4FAB37CA76B0EEAD9B5B9507FB35F37CC6B9FA3D755EDB67C39C1FAC4F3F5FAFEFC7D7D7F7EBF9FCF33C70309499484BA9FFD7934DD655A64EDD0880F5DCCED373D79488003EDEAB539D1C987'))
+den = '[1;90m'
+luc = '[1;32m'
+trang = '[1;37m'
+red = '[1;31m'
+vang = '[1;33m'
+tim = '[1;35m'
+lamd = '[1;34m'
+lam = '[1;36m'
+purple = '[35m'
+hong = '[1;95m'
+xnhac = '[1;95m'
+xduong = '[1;95m'
+do = '[1;33m'
+import requests,os,sys, time
+import requests
+import json
+import os
+from sys import platform
+from datetime import datetime
+from time import sleep, strftime
+import hashlib
+import hmac
+import uuid
+ctool1 = "\033[1;32m[\033[1;33m✓\033[1;32m] \033[1;0m=> "
+ctool2 = "\033[1;0m➲ "
+try:
+    from pystyle import Colors, Colorate
+except ImportError:
+    os.system('pip install pystyle')
+    from pystyle import Colors, Colorate
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\033[1;31mBạn Định Bug À, Có Cái Lồn!")
+    exit() 
+
+banners = f"""      ██████╗         ████████╗ ██████╗  ██████╗ ██╗
+     ██╔════╝         ╚══██╔══╝██╔═══██╗██╔═══██╗██║
+     ██║       █████╗    ██║   ██║   ██║██║   ██║██║
+     ██║       ╚════╝    ██║   ██║   ██║██║   ██║██║
+     ╚██████╗            ██║   ╚██████╔╝╚██████╔╝███████╗
+      ╚═════╝            ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝"""
+
+thongtin = f"""                       \033[1;37mCopyright © C-Tool 2024\n\033[1;32m─────────────────────────────────────────────────────────────────\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.yellow_to_red, 'Tool: Gộp Vip')}\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;35m Admin: \033[1;36mCao Mạnh Cường  \n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;36m Zalo: \033[1;31m0365232190\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;32m Box TeleGram: \033[1;37mhttps://t.me/+lgM50Gu-4Ns1ZTJl\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;33m YouTube: \033[1;37mhttps://youtube.com/@Manhcuongdzcuti\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.green_to_white, 'Mua Key Tại: ')}{Colorate.Horizontal(Colors.white_to_green, 'Chưa Cập Nhật  ')}\n\033[1;32m─────────────────────────────────────────────────────────────────\033[0m
+"""
+
+def vanlong(so):
+    a = '\033[1;32m────' * (so - 1) + '─'
+    for i in range(len(a)):
+        sleep(0.003)
+    print(a)
+
+def clear():
+    if platform.startswith('linux'):
+        os.system('clear')
+    else:
+        os.system('cls')
+
+def banner():
+    print('[0m', end='')
+    clear()
+    a = Colorate.Horizontal(Colors.blue_to_green, banners)
+    print(a)
+    print(thongtin)
+    vanlong(17)
+os.system("cls" if os.name == "nt" else "clear")
+banner()
+print("\033[1;31mTool Đang Bảo Trì!")
+print(f"{ctool2}\033[1;32mNhập [\033[1;33m1\033[1;32m] Để Out Tool")
+chon = float(input('\033[1;0m═══➲ \033[1;32mTNhập Số \033[1;0m===>: \033[1;33m'))
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mBạn Định Bug À?, Cốn Cái Lò!")
+    sys.exit(1) 
+if chon == 1 :
+  print("\033[1;32mThoát Tool Trong 3s Nữa!")
+  sleep(3)
+  exit()
+  

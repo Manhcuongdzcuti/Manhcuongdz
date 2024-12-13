@@ -1,5 +1,262 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Sun Dec  1 12:20:15 2024
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b16decode(__[::-1]));exec((_)(b'342F5B33B0DFE7FBF16805B39362B9045720E194C5861FDD1D0735AE9FEA29CC990DB46FA67BB06009C238FA5647772239C28AFB303A11DA745DE5206446AD3B840A5EED011ADC6D16CC444464EB744E0247B849334C91C40A2FF942EC00C550767D2BC72328EA36F052570323E8E985337AC31C8CA60223C2054A3C4622081EC7D201FB999E1C091109603408EB8530615D9C948F69112928124F451D38C2B3D7A6D4E967742215DDD3C089AE561616F8760A34F21A6E92448E8677E295625301035F8B7652AE954B9986DE03B5FDD393B817293DC634F7721971DA44CFE85AD9A4BCF7C0A095EBA41A4D397F1467953F1F01533DD602F0EBF502AD12285874EC9E4CCA51FA1511E0A7B66ACAA9345F2F05AAA0CC329536157109A19C65DD432ED1CAB8CE49FCC38C476BF202322B83087CE8DC39B90C8CBCD02FD91ACFBAA716F077204756361B18974C6A5828818321367841414432370007AD605AE369CDBC32D6C88BBC92EB75AC99632C57511890512F936CFB2783CECAD58CA0418DFDA345492D992368326B36FC931BCACC82B80BB14EB392BAB84ACC8B154ED42AA38E8399C899EB6EF99BC975911C91D760EDD323968B7FB970224CB9CF49237053E98A3994387D3AD78DAD62CDA303A829D201B7892DC8407A7083FD2D2DAA808EA7CF084758EC4CB616FE1C703996322556D6FA3E56640548CC3805B8389D87D5E2324734B0C77C1FEBEB3EC28114AA92000F7206B540DD6047572BB3194F393868D8DA04893498B74EE737A13109CF12B3FD1A40289CD118CB23FE10BD8E8A2F8CC758D89C069910ED1DF01789EBF7ADF78F78511DF128A423758B2315AB1A2E64434AC65843266616448C731A0F82203E33369A4FA0E55E48AEEE1D921C7CC09829C3C9027AF22482E7883291801DB04EFDE2C49AED166208975333C293B948E8A5D4CB6173E22B7148E96911AD36C2769487D0E802EDB91F48D2F2E9E8B0984F39AB9078327594E591C79C8199803063786C339380B9065E93D5CDD73A0EBB64F0096932D30675296B4811BA5509665A6B53C36C0C03435FD26F5652D01F62F5B02809E5C1F0E13601A4271F0BB5CD3893107022B1A023516ED32C6876CCDC0728C2E504D84D58F411A003F9AE3523C9CC0A7C5F68759FB0BF3D0C6042D91672A664776D0A1803DEB67399FB090916F77E04D0303D7081059DDE8C76D218AC9A6698FCD9FD8893889D49B346C806C978FBECC90F43DD1DFB24E6C02A1A601285AD32F059C0B102D2680C9CACB37204FD838D1BD39DA98C208C6685E44DD99BE99AF6EBC850037A22E327731CA1735A651E0FFF80E7294CE8BC1D0B331DB8A5602691B5607915F381B439DE38E58C3D6E1F07D61A8A1881A01708334A1AE291CD1CF5623F9800D89346E1C0EA028975D4844E337BC9B33824B09B92BC944128A0411D2466D500E86770CD4B6424860D605A3270FDB4176E569493752157D03E67C0634A103E17944615CE233852F66755478E4B94E962D32066E12647141C12CB4678F812D874E038848C016935E484050534D21093629D5067A1882E226C805C0BA1C2565269C4262272B7E17F6F689426378181CB9E6B9813E9DA4F24409563B0F9AAF06E29179034A9E2E039E12C6109EB8565A9EBB1882F67E8100443FB3D6441D32C727710FB364D400BAD8173B80D638BF78C854A508CC734E7C8A5E50C0B59847CADA0DE2DA86CE3D8A7E2465C1110B1C80F8720761B91179283F9186D862798BD6CC2A87485011D9FCD110829034E9A66C54EF98093A46217A947209E9D909493FCF1101514DA8F7ABEB48933D52189386207E4DE43301A4890C1FE4048063812472F581D630BAAD16F1A78DD4D8522EFCAF89C21B8D62AF025A7278BA9CCEB12203F47F64E31CC2A6E3EEF12F6C6FF125F29800297512CE4E421AB22203696E32B433382E9444FA5FB11AEF72201FD86352681C1361584700AB15136D5D18CDB1CF0BBFCE2342D433998A7E8B16BFCF249805A2A4FA08AC147D6CA6BEE230A6EEC4DAC1D2EE01C0882B0311C9B21021250D20C39C4D2288349AE647475918E0E6DDEA31074548AC8B579E17113638D2339FD4A431D53250373330E22123A43539F2E9A9B92849B734D932AB6E86C62667C005958B29D1E064ECD57169C54D8B429BE032ABAA31D948BE4CAB6C70752547183987CD0709A43B076F374D580A6A62D9E0316647A3807EA952A470815A24511EA233C68610F87ACE59869679CE453A3BE8DA505794F486DF3582201D0B82636E4E4D1482926D9422D276007D77813E5C9224E9E0E84EBE9DA0623AC289324BA9125A92E1C11E8A12AD307AC0C1CC355F8780B4E24810A5B2890D091DA6DC22CDE71CEADDC12FE308EA3F47813EF149ABF0DE5CF2D7FA745F85447E01C2FA898261AA893052670703786DF002F3B01FB00A6E429C2D3173BA76137B37006DB33FA0B4D70DAA7C5A941E3521D912B642551C3A863AFC3FEFB00C1B9F122F9DDDA14A14F94D2BD3A413DDBC1BFDAC090E51CC543E6287DCE4B1F6230121C4A4AD24542AD24BA67B8DE119D62347D7506A723460FE31426F08541A24F7649D960EC00B0B1791E00444C0755392C583A502970CB60604253224EA3CCD7F72830EBFC07360818D03B92F5D1924D37336BDBB100AF51F593FE0CCA0461833B41A8819C46BF077A2A6074760E420141D377ED227B5DF8C7A8D8182A63DB4B773C5AEC6C7D94C06A95E9C0AEC543DECD6478CD3122BEC35A92831B3ABBD254431EF93AE482482439CE7EAFC55F08288F17CB170763B3F7D0DA68409AC7A0DF39A2F2C1B7A879DE7AB2419A400F341D461B3C22E08FB34C604F854D82ED2DD9790FD03A439F07714C030BAF7C77A4F192F0967C44B0C7B0D02DF6F4C66333C25ED293A9217CD39063E55EFE540E1D0C4F0587C251BFBB9E46786EDE97C2F247DCA21943124892F716ACF4F5E894E4E6DDCE8D00E185D43E01D0546BEFE94F9E6D9E327D646E071C70F283E160034D47DFC310ABCC908AE2797D665E9B8C5126638A6D8653082FEC38EC9AB86A68E23D09308AD175DB182D7BDBA4C03CB310AD0554058B9D70736D2F4D8E3E1A8DA06B3D6779AB0BB10E614A8E0CEBA90A573B119D4A3A448DF4BC7FD57AEEAEAD006D58915B9774D9DB61AC1009843E9D70C7B459409E30960A280968B9D2D0405B8D3571DA0AD3F900C5CFB557EFA541D7928301BC9A2405866BDAE02E2D381C1CC8EAFE04EC86C46FE64DF63EB754D6D5FFD59641F168A73605D5ABA297E956F2B2967E106B3703E4B9EEAC85114264535076218B6978B6F6EDCD4F17311F06AEBCDB1743579381B15506F3A33059A0D4B1C0A7AD8507FAED10055E7C17E5FC5DA68B7D230A7EDB6FF45B962DC578F8DA4C6143A88A19DC812E0357E55B58484F97778955C4EBB0D83D07F2D71429702B7BD5306420114BA51A53FC0894A278881FFCB47F223D448FCECDA53FD1FDA1DC8530A61A1BEAB1D42A07DA8D6BD03B7BAE5A8EFA24BBDCA82DD665EB3B3B500D6AD0D60D6937F232962B2DECB00ABAA0EFC17792CAF75270544AC3DB9B13F92517BB8DFCF434D9E610353B8532AE013158D0BCDC70FD69284B35E8A07ECBD6A2AF0373AB79D6D9639B37A810CB377ECAB1D5BCE6C4AB6F06F551567261BBC89833798688893C47A32259DEC88641A7E4639707775EDBD625E2B0E90F238D2BE76DCCA5FA3620A0E6BE5478C5E5324BF3930F3AD25306CF101F3692092104D7B2B5ED7C6DE641A77AE43D0A0C2EECC75B2BCFF754FE92F3DB936E3C537D6418491A7CAABE2D4DE3477F9677768BC29ECFB57F5B8EF12B45BA4E7E1BA8C657934F3BB6E5A7C9DED9F5C38BAB9375BB18BBF3C719E24CA8B8BB8C07587EE1E92F6F59CFA5C6C3622DE029EFD8DFA59BE6776741757F7C5B4A046D31FDB2E02C550604B858B747BD0D70E1C6F60AA4F4B8CDF033EAFEAFF8A2ADFD50FC89710430D657768EBEAB9AE49E14EB885CA5D8FEEF909402CDDF59548D83C027E6BF67F5642E1DDAFEA6AD6BAF593F1E6D7B97595F36E9580AD08F772D8CDF7B1B153EB1F428839E740CFAD47F755663ABD87ECADB9E0BAFFE20EC82B8AF5CC7F8D2A5AF1F8E08F1568D7CA50FCD0B2EFCFC26AE54AB525F51A9ABE85480C7B5CA68DED3FCBBDDF2E82526A26CE39AEB37B67D379A8F3AEEF4BF38D97CDB97F49ABFF9F1FA6ACDC7311C1985C7C92EDA64DB6DCEF25EE7C33A65FCB9ED6E2777821A7CDD7A4BA73D2AB6AF352F9F4ABC6AE122E0655E9AD6BE9EB755F2B61DC84C5792FDAD798737BAA6F4FB74ADF56672B2F61BEA516D36BD75CAFCD2DCD7FDC256DA3ABED2BBDA435AFDA6251ECBF9A59566931DA4B7F7EF77E0BF2361A2F8655C7F315BBA33DE7BA3CD22E9BB3596ADB7CEBEB9B455915C5E5D3B6773B6B4C6B22E9DB7B6B3C67BE25BE0BE26EED673C87E22110FFC57D9B4AA5D5BCADF3B8FB72169DBF1FA3F5FEFEFF7F3FDFC7E9FFF27AA5EC5A1F5F5FA9B442A867FC1EF95782BC82D32C6C0311E08BDF04E397944C092D1EA158953C987'))
+den = '[1;90m'
+luc = '[1;32m'
+trang = '[1;37m'
+red = '[1;31m'
+vang = '[1;33m'
+tim = '[1;35m'
+lamd = '[1;34m'
+lam = '[1;36m'
+purple = '[35m'
+hong = '[1;95m'
+xnhac = '[1;95m'
+xduong = '[1;95m'
+do = '[1;33m'
+import requests,os,sys, time
+import requests
+import json
+import os
+from sys import platform
+from datetime import datetime
+from time import sleep, strftime
+import hashlib
+import hmac
+import uuid
+ctool1 = "\033[1;32m[\033[1;33m✓\033[1;32m] \033[1;0m=> "
+ctool2 = "\033[1;0m➲ "
+try:
+    from pystyle import Colors, Colorate
+except ImportError:
+    os.system('pip install pystyle')
+    from pystyle import Colors, Colorate
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\033[1;31mBạn Định Bug À, Có Cái Lồn!")
+    exit() 
+
+banners = f"""      ██████╗         ████████╗ ██████╗  ██████╗ ██╗
+     ██╔════╝         ╚══██╔══╝██╔═══██╗██╔═══██╗██║
+     ██║       █████╗    ██║   ██║   ██║██║   ██║██║
+     ██║       ╚════╝    ██║   ██║   ██║██║   ██║██║
+     ╚██████╗            ██║   ╚██████╔╝╚██████╔╝███████╗
+      ╚═════╝            ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝"""
+
+thongtin = f"""                       \033[1;37mCopyright © C-Tool 2024\n\033[1;32m─────────────────────────────────────────────────────────────────\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.yellow_to_red, 'Tool: Gộp Vip')}\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;35m Admin: \033[1;36mCao Mạnh Cường  \n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;36m Zalo: \033[1;31m0365232190\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;32m Box TeleGram: \033[1;37mhttps://t.me/+lgM50Gu-4Ns1ZTJl\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;33m YouTube: \033[1;37mhttps://youtube.com/@Manhcuongdzcuti\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.green_to_white, 'Mua Key Tại: ')}{Colorate.Horizontal(Colors.white_to_green, 'Chưa Cập Nhật  ')}\n\033[1;32m─────────────────────────────────────────────────────────────────\033[0m
+"""
+
+def vanlong(so):
+    a = '\033[1;32m────' * (so - 1) + '─'
+    for i in range(len(a)):
+        sleep(0.003)
+    print(a)
+
+def clear():
+    if platform.startswith('linux'):
+        os.system('clear')
+    else:
+        os.system('cls')
+
+def banner():
+    print('[0m', end='')
+    clear()
+    a = Colorate.Horizontal(Colors.blue_to_green, banners)
+    print(a)
+    print(thongtin)
+    vanlong(17)
+os.system("cls" if os.name == "nt" else "clear")
+banner()
+print("\033[1;31mTool Đang Bảo Trì!")
+print(f"{ctool2}\033[1;32mNhập [\033[1;33m1\033[1;32m] Để Out Tool")
+chon = float(input('\033[1;0m═══➲ \033[1;32mTNhập Số \033[1;0m===>: \033[1;33m'))
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mBạn Định Bug À?, Cốn Cái Lò!")
+    sys.exit(1) 
+if chon == 1 :
+  print("\033[1;32mThoát Tool Trong 3s Nữa!")
+  sleep(3)
+  exit()
+  den = '[1;90m'
+luc = '[1;32m'
+trang = '[1;37m'
+red = '[1;31m'
+vang = '[1;33m'
+tim = '[1;35m'
+lamd = '[1;34m'
+lam = '[1;36m'
+purple = '[35m'
+hong = '[1;95m'
+xnhac = '[1;95m'
+xduong = '[1;95m'
+do = '[1;33m'
+import requests,os,sys, time
+import requests
+import json
+import os
+from sys import platform
+from datetime import datetime
+from time import sleep, strftime
+import hashlib
+import hmac
+import uuid
+ctool1 = "\033[1;32m[\033[1;33m✓\033[1;32m] \033[1;0m=> "
+ctool2 = "\033[1;0m➲ "
+try:
+    from pystyle import Colors, Colorate
+except ImportError:
+    os.system('pip install pystyle')
+    from pystyle import Colors, Colorate
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\033[1;31mBạn Định Bug À, Có Cái Lồn!")
+    exit() 
+
+banners = f"""      ██████╗         ████████╗ ██████╗  ██████╗ ██╗
+     ██╔════╝         ╚══██╔══╝██╔═══██╗██╔═══██╗██║
+     ██║       █████╗    ██║   ██║   ██║██║   ██║██║
+     ██║       ╚════╝    ██║   ██║   ██║██║   ██║██║
+     ╚██████╗            ██║   ╚██████╔╝╚██████╔╝███████╗
+      ╚═════╝            ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝"""
+
+thongtin = f"""                       \033[1;37mCopyright © C-Tool 2024\n\033[1;32m─────────────────────────────────────────────────────────────────\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.yellow_to_red, 'Tool: Gộp Vip')}\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;35m Admin: \033[1;36mCao Mạnh Cường  \n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;36m Zalo: \033[1;31m0365232190\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;32m Box TeleGram: \033[1;37mhttps://t.me/+lgM50Gu-4Ns1ZTJl\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;33m YouTube: \033[1;37mhttps://youtube.com/@Manhcuongdzcuti\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.green_to_white, 'Mua Key Tại: ')}{Colorate.Horizontal(Colors.white_to_green, 'Chưa Cập Nhật  ')}\n\033[1;32m─────────────────────────────────────────────────────────────────\033[0m
+"""
+
+def vanlong(so):
+    a = '\033[1;32m────' * (so - 1) + '─'
+    for i in range(len(a)):
+        sleep(0.003)
+    print(a)
+
+def clear():
+    if platform.startswith('linux'):
+        os.system('clear')
+    else:
+        os.system('cls')
+
+def banner():
+    print('[0m', end='')
+    clear()
+    a = Colorate.Horizontal(Colors.blue_to_green, banners)
+    print(a)
+    print(thongtin)
+    vanlong(17)
+os.system("cls" if os.name == "nt" else "clear")
+banner()
+print("\033[1;31mTool Đang Bảo Trì!")
+print(f"{ctool2}\033[1;32mNhập [\033[1;33m1\033[1;32m] Để Out Tool")
+chon = float(input('\033[1;0m═══➲ \033[1;32mTNhập Số \033[1;0m===>: \033[1;33m'))
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mBạn Định Bug À?, Cốn Cái Lò!")
+    sys.exit(1) 
+if chon == 1 :
+  print("\033[1;32mThoát Tool Trong 3s Nữa!")
+  sleep(3)
+  exit()
+  den = '[1;90m'
+luc = '[1;32m'
+trang = '[1;37m'
+red = '[1;31m'
+vang = '[1;33m'
+tim = '[1;35m'
+lamd = '[1;34m'
+lam = '[1;36m'
+purple = '[35m'
+hong = '[1;95m'
+xnhac = '[1;95m'
+xduong = '[1;95m'
+do = '[1;33m'
+import requests,os,sys, time
+import requests
+import json
+import os
+from sys import platform
+from datetime import datetime
+from time import sleep, strftime
+import hashlib
+import hmac
+import uuid
+ctool1 = "\033[1;32m[\033[1;33m✓\033[1;32m] \033[1;0m=> "
+ctool2 = "\033[1;0m➲ "
+try:
+    from pystyle import Colors, Colorate
+except ImportError:
+    os.system('pip install pystyle')
+    from pystyle import Colors, Colorate
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\033[1;31mBạn Định Bug À, Có Cái Lồn!")
+    exit() 
+
+banners = f"""      ██████╗         ████████╗ ██████╗  ██████╗ ██╗
+     ██╔════╝         ╚══██╔══╝██╔═══██╗██╔═══██╗██║
+     ██║       █████╗    ██║   ██║   ██║██║   ██║██║
+     ██║       ╚════╝    ██║   ██║   ██║██║   ██║██║
+     ╚██████╗            ██║   ╚██████╔╝╚██████╔╝███████╗
+      ╚═════╝            ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝"""
+
+thongtin = f"""                       \033[1;37mCopyright © C-Tool 2024\n\033[1;32m─────────────────────────────────────────────────────────────────\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.yellow_to_red, 'Tool: Gộp Vip')}\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;35m Admin: \033[1;36mCao Mạnh Cường  \n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;36m Zalo: \033[1;31m0365232190\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;32m Box TeleGram: \033[1;37mhttps://t.me/+lgM50Gu-4Ns1ZTJl\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩\033[1;33m YouTube: \033[1;37mhttps://youtube.com/@Manhcuongdzcuti\n\033[1;32m[\033[1;0m🌃\033[1;32m]\033[1;37m ➩ {Colorate.Horizontal(Colors.green_to_white, 'Mua Key Tại: ')}{Colorate.Horizontal(Colors.white_to_green, 'Chưa Cập Nhật  ')}\n\033[1;32m─────────────────────────────────────────────────────────────────\033[0m
+"""
+
+def vanlong(so):
+    a = '\033[1;32m────' * (so - 1) + '─'
+    for i in range(len(a)):
+        sleep(0.003)
+    print(a)
+
+def clear():
+    if platform.startswith('linux'):
+        os.system('clear')
+    else:
+        os.system('cls')
+
+def banner():
+    print('[0m', end='')
+    clear()
+    a = Colorate.Horizontal(Colors.blue_to_green, banners)
+    print(a)
+    print(thongtin)
+    vanlong(17)
+os.system("cls" if os.name == "nt" else "clear")
+banner()
+print("\033[1;31mTool Đang Bảo Trì!")
+print(f"{ctool2}\033[1;32mNhập [\033[1;33m1\033[1;32m] Để Out Tool")
+chon = float(input('\033[1;0m═══➲ \033[1;32mTNhập Số \033[1;0m===>: \033[1;33m'))
+def check_internet_connection():
+    try:
+        response = requests.get("https://google.com/", timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+if not check_internet_connection():
+    print("\n\033[1;31mBạn Định Bug À?, Cốn Cái Lò!")
+    sys.exit(1) 
+if chon == 1 :
+  print("\033[1;32mThoát Tool Trong 3s Nữa!")
+  sleep(3)
+  exit()
+  
